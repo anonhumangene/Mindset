@@ -138,6 +138,10 @@ Severity,Probability,Controllability,Detectability
 
 Failure types: No function/Deviation(Excess/deteriorated)/Suspended/Unintended activation/sideeffects
 
+
+short sightedness, blindspots
+
+
 Input-Output-uncontrollable environment-controlled factors-Side effects
 
 
