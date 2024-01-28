@@ -12,6 +12,21 @@ Red Ocean,Blue Ocean
 
 Concise,Complete,Consistent
 
+
+Emperical, Hypothetical, Theoretical, 
+
+Agile, scrum,
+
+
+Correlation vs Causation
+
+interpolate, extrapolate
+
+Obervation,Induction, Deduction,Testing, Evaluation
+
+
+
+
 Observant,Ask,Aware,Learning,Communication,Improve Quality of Life,Increase standards of living
 
 Qualitative,Quantitative
