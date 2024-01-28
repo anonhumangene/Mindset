@@ -15,7 +15,10 @@ Concise,Complete,Consistent
 
 Emperical, Hypothetical, Theoretical, Conceptual,Pragmatic
 
-Agile, scrum,
+
+
+Axiom, Theorem, Postulates, Congruence, Corollary, Hypotheses
+
 
 
 Correlation vs Causation
