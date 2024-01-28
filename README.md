@@ -13,7 +13,7 @@ Red Ocean,Blue Ocean
 Concise,Complete,Consistent
 
 
-Emperical, Hypothetical, Theoretical, 
+Emperical, Hypothetical, Theoretical, Conceptual,Pragmatic
 
 Agile, scrum,
 
@@ -23,6 +23,8 @@ Correlation vs Causation
 interpolate, extrapolate
 
 Obervation,Induction, Deduction,Testing, Evaluation
+
+First principles, AB initio method, Back to basics, from engineers perspective.
 
 
 
